@@ -1,0 +1,17 @@
+{
+    "token": "MTMwOTkzNDk1NDkxMzczMDY1MQ.GClQHp.FS_IzXerEGvhVsU46JmeZ1NukZIouVpjMk4cw8",
+    "command_channels": {
+        "fgen": 1309934250564518019,
+        "bgen": 1309934288896004166,
+        "ugen": 1309934314586243104,
+        "fstock": 1309934250564518019,
+        "bstock": 1309934288896004166,
+        "ustock": 1309934314586243104
+    },
+    "cooldown_times": {
+        "fgen": 300,
+        "bgen": 1000,
+        "ugen": 60
+    },
+    "custom_thumbnail": "https://th-thumbnailer.cdn-si-edu.com/18x7rvpu34CCRzVzJoK0HWGxdgo=/fit-in/1200x0/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2F20110721125011banana2.jpg"
+}
